@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "OptionalDependAPI",
+  "author": "ThirtyTwelve",
+  "version": "1.0.0",
+  "description": "API that Adds optional dependency support for mods",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
